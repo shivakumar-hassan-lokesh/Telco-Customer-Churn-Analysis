@@ -25,7 +25,6 @@ dashboard for drilling into any segment.
 ## Dashboard Views
 
 ### 1. Overview
-![Overview](assets/overview.png)
 High-level KPIs plus churn rate broken down by contract type and payment method, a 
 customer segmentation scatter (CLTV vs. contract vs. tenure), and a geographic view 
 of churn by zip code across California.
@@ -34,7 +33,6 @@ of churn by zip code across California.
 - **Payment method matters:** Electronic check users churn at **45.29%** — nearly 3x the rate of automatic bank transfer (16.71%) or credit card (15.24%) users.
 
 ### 2. Customer Profile Analysis
-![Customer Profile Analysis](assets/customer-profile-analysis.png)
 Churn broken down by demographics (gender, senior citizen, partner, dependents), 
 churn rate vs. tenure, and a monthly-vs-total-charges customer segmentation.
 
@@ -42,7 +40,6 @@ churn rate vs. tenure, and a monthly-vs-total-charges customer segmentation.
 - **Churn rate is highest in the first few months** of tenure and drops sharply as tenure increases — new customers are the highest-risk group.
 
 ### 3. Churn Reasons
-![Churn Reasons](assets/churn-reasons.png)
 A breakdown of *stated* reasons for churning, grouped into categories and ranked 
 individually.
 
@@ -50,7 +47,6 @@ individually.
 - Top individual reasons: **competitor had better devices** (313), **competitor made a better offer** (311), and **attitude of the support person** (220).
 
 ### 4. Financial Impact
-![Financial Impact](assets/financial-impact.png)
 Revenue lost to churn, extra data/long-distance charge exposure, and how churn 
 relates to customer lifetime value (CLTV) and churn-risk score.
 
@@ -68,7 +64,7 @@ relates to customer lifetime value (CLTV) and churn-risk score.
 ## Tools Used
 
 - **Tableau Public** — dashboard design and visualization
-- *(edit if applicable)* SQL / Python — data cleaning and preparation
+- SQL / Python — data cleaning and preparation
 
 ## How to Use
 
@@ -80,4 +76,3 @@ relates to customer lifetime value (CLTV) and churn-risk score.
 ## Author
 
 **Shivakumar Hassan Lokesh** — MS Data Analytics Engineering, Northeastern University
-[LinkedIn](PASTE_YOUR_LINKEDIN_URL)
