@@ -3,9 +3,8 @@
 Interactive Tableau dashboard analyzing customer churn for a telecom provider — covering 
 churn drivers, financial impact, and the underlying reasons customers leave.
 
-🔗 **[View Interactive Dashboard on Tableau Public](PASTE_YOUR_PUBLIC_LINK_HERE)**
+🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/shivakumar.hassan.lokesh/viz/TelcoCustomerChurnAnalysis_17612636787000/CustomerProfileAnalysis#3)**
 
-![Overview](assets/overview.png)
 
 ## Overview
 
